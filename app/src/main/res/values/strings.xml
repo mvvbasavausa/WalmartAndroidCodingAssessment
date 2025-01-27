@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">WalmartAndroidCodingAssessment</string>
+    <string name="welcome_to_the_countries_app">Welcome to the Countries App</string>
+    <string name="country_name">Country Name</string>
+    <string name="country_region">Country Region</string>
+    <string name="country_code">Country Code</string>
+    <string name="capital_text">Country Text</string>
+    <string name="get_data">Get Data</string>
+</resources>
